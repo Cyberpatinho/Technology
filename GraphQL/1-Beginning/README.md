@@ -15,4 +15,4 @@ First steps using GraphQL with Golang, part of a study of ways in which systems 
 
 * [GraphQL](https://graphql.org/)
 * [gqlgen - GraphQL for Go](https://gqlgen.com/)
-* [SQLite in Go, with and without cgo](
+* [SQLite in Go, with and without cgo](https://datastation.multiprocess.io/blog/2022-05-12-sqlite-in-go-with-and-without-cgo.html)
