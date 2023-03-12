@@ -1,0 +1,15 @@
+C:\Users\Ed\Desktop\Technology\C#\1 - Delegates, Events and Lambdas\bin\Debug\net6.0\Course.exe
+C:\Users\Ed\Desktop\Technology\C#\1 - Delegates, Events and Lambdas\bin\Debug\net6.0\Course.deps.json
+C:\Users\Ed\Desktop\Technology\C#\1 - Delegates, Events and Lambdas\bin\Debug\net6.0\Course.runtimeconfig.json
+C:\Users\Ed\Desktop\Technology\C#\1 - Delegates, Events and Lambdas\bin\Debug\net6.0\Course.dll
+C:\Users\Ed\Desktop\Technology\C#\1 - Delegates, Events and Lambdas\bin\Debug\net6.0\Course.pdb
+C:\Users\Ed\Desktop\Technology\C#\1 - Delegates, Events and Lambdas\obj\Debug\net6.0\Course.csproj.AssemblyReference.cache
+C:\Users\Ed\Desktop\Technology\C#\1 - Delegates, Events and Lambdas\obj\Debug\net6.0\Course.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ed\Desktop\Technology\C#\1 - Delegates, Events and Lambdas\obj\Debug\net6.0\Course.AssemblyInfoInputs.cache
+C:\Users\Ed\Desktop\Technology\C#\1 - Delegates, Events and Lambdas\obj\Debug\net6.0\Course.AssemblyInfo.cs
+C:\Users\Ed\Desktop\Technology\C#\1 - Delegates, Events and Lambdas\obj\Debug\net6.0\Course.csproj.CoreCompileInputs.cache
+C:\Users\Ed\Desktop\Technology\C#\1 - Delegates, Events and Lambdas\obj\Debug\net6.0\Course.dll
+C:\Users\Ed\Desktop\Technology\C#\1 - Delegates, Events and Lambdas\obj\Debug\net6.0\Course.pdb
+C:\Users\Ed\Desktop\Technology\C#\1 - Delegates, Events and Lambdas\obj\Debug\net6.0\Course.genruntimeconfig.cache
+C:\Users\Ed\Desktop\Technology\C#\1 - Delegates, Events and Lambdas\obj\Debug\net6.0\ref\Course.dll
+C:\Users\Ed\Desktop\Technology\C#\1 - Delegates, Events and Lambdas\bin\Debug\net6.0\ref\Course.dll
